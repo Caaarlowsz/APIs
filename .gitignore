@@ -1,1 +1,6 @@
 /.project
+
+# IntelliJ IDEA
+*.iml
+/.idea/
+/META-INF/
